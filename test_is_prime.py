@@ -1,3 +1,4 @@
+
 import unittest
 
 import prime_examer
@@ -21,6 +22,7 @@ class UnitTest(unittest.TestCase):
         testers.append(Tester(613, True))
         testers.append(Tester(143, False))
         testers.append(Tester(846, False))
+        testers.append(Tester(1151, True))
 
         for tester in testers:
             try:

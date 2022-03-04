@@ -1,4 +1,10 @@
 
+## 20220301
+* class
+* instance
+* encapsulation
+* object: class/instance 
+
 ## 20220218
 * python檔案格式，檔案名稱是名詞，全小寫，用底線分隔
 * 程式內不放main，有人認為程式都要放main，但其實不然
