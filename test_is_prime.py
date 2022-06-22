@@ -22,7 +22,7 @@ class UnitTest(unittest.TestCase):
         testers.append(Tester(613, True))
         testers.append(Tester(143, False))
         testers.append(Tester(846, False))
-        testers.append(Tester(1151, True))
+        testers.append(Tester(999, False))
 
         for tester in testers:
             try:
